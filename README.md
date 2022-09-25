@@ -1,4 +1,4 @@
-# spring_jpa_hangkhong_th4![image](https://user-images.githubusercontent.com/99710665/192136466-052c1a80-6b33-456e-91cd-8693fa6b87db.png)
+# spring_jpa_hangkhong_th4
 ![image](https://user-images.githubusercontent.com/99710665/192136521-a553ba58-9bd0-4a32-8d37-c384142e60de.png)
 ![image](https://user-images.githubusercontent.com/99710665/192136532-b801fa0b-cbaa-41f2-8516-899d6fa1b718.png)
 ![image](https://user-images.githubusercontent.com/99710665/192136543-9036c03d-34c9-49d3-9eb6-89d4e17eeb0d.png)
